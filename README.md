@@ -1,11 +1,11 @@
 # UNSW Database Systems assignment
 The aims of this assignment were to:
 
--formulate SQL queries;
--populate an RDBMS with a real dataset, and analyse the data;
--design test data for testing SQL queries;
--create SQL views;
--understand the limitations of SQL queries; and
+-formulate SQL queries
+-populate an RDBMS with a real dataset, and analyse the data
+-design test data for testing SQL queries
+-create SQL views
+-understand the limitations of SQL queries 
 -create SQL functions (when needed).
 
 # Database
