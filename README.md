@@ -1,4 +1,4 @@
-# UNSW Database Systems assignment
+# Database Systems Assignment 1
 The aims of this assignment were to:
 
 - formulate SQL queries
